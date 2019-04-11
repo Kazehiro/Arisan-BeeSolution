@@ -5,5 +5,5 @@ Aplikkasi Arisan Berbasis Android
 Aplikasi ini Menggunakan database Firebase
 
 # Note
-## Aplikasi sudah berbentuk APK, tinggal dijalankan di Android
+## Terdapat Aplikasi yang sudah berbentuk APK, tinggal dijalankan di Android
 ## Aplikasi Tidak Memerlukan Perlakuan Khusus
