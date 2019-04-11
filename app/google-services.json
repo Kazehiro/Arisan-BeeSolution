@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539453093377",
+    "firebase_url": "https://arisan-c205.firebaseio.com",
+    "project_id": "arisan-c205",
+    "storage_bucket": "arisan-c205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539453093377:android:13fb168236960c99",
+        "android_client_info": {
+          "package_name": "com.example.beesolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539453093377-lomii8iseqpm970hrvvcdt6144eog4t5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beesolution",
+            "certificate_hash": "a9c07bad901604ce71369c42f88b669f52c0e5c9"
+          }
+        },
+        {
+          "client_id": "539453093377-4ef07op0d6e6iohf3l2m0ne2vp2rvcl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYV-TIhgHOODn0n-Gj95GVCfywvyTWO7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539453093377-4ef07op0d6e6iohf3l2m0ne2vp2rvcl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
